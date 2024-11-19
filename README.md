@@ -79,7 +79,7 @@ mathematics-learning-roadmap/
 1. Clone the repository
 
 ```bash
-git clone https://github.com/
+git clone https://github.com/melmustafa/pure-math-roadmap
 ```
 
 2. Install required packages
