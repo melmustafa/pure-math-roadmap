@@ -146,6 +146,54 @@ class VectorAnalysis:
 3. Complex motion problems
 4. Vector field analysis
 
+### Assessments
+
+🔵 **Weekly Problem Sets**
+
+1. Vector Operations
+
+   - Compute dot and cross products
+   - Analyze vector projections
+   - Solve distance problems
+   - Find vector equations of lines and planes
+
+2. Vector-Valued Functions
+
+   - Calculate derivatives and integrals
+   - Determine arc length
+   - Find curvature and torsion
+   - Analyze motion in space
+
+3. Implementation Tasks
+   - Create vector operation library
+   - Implement vector field visualizer
+   - Build motion simulator
+   - Develop curve analyzer
+
+🟡 **Unit Project**
+Create a 3D Motion Analyzer:
+
+- Track particle motion in space
+- Calculate velocity and acceleration
+- Determine path characteristics
+- Visualize motion and associated vectors
+- Compute arc length and curvature
+
+🟢 **Concept Mastery**
+
+1. Theory Quiz
+
+   - Vector properties and operations
+   - Vector-valued function characteristics
+   - Geometric interpretations
+   - Motion concepts and applications
+
+2. Proof Exercises
+   - Vector algebra proofs
+   - Vector calculus theorems
+   - Geometric relationships
+   - Motion relationships
+
 ## Unit 2: Partial Derivatives (3 weeks)
 
 ### Learning Objectives
@@ -350,6 +398,54 @@ class MultivariableVisualizer:
 3. Implicit function problems
 4. Multi-constraint optimization
 
+### Assessments
+
+🔵 **Weekly Problem Sets**
+
+1. Partial Derivatives
+
+   - Compute first and second partial derivatives
+   - Find directional derivatives and gradients
+   - Solve tangent plane problems
+   - Apply the chain rule
+
+2. Optimization Problems
+
+   - Find critical points
+   - Determine absolute and relative extrema
+   - Solve constrained optimization problems
+   - Apply Lagrange multipliers
+
+3. Implementation Tasks
+   - Build partial derivative calculator
+   - Create 3D surface visualizer
+   - Implement optimization algorithms
+   - Develop gradient field plotter
+
+🟡 **Unit Project**
+Optimization Toolkit:
+
+- Surface analyzer for critical points
+- Constraint visualization system
+- Method comparison tool
+- Real-world optimization solver
+- Interactive 3D plotting system
+
+🟢 **Concept Mastery**
+
+1. Theory Assessment
+
+   - Partial derivative theorems
+   - Optimization principles
+   - Chain rule applications
+   - Lagrange multiplier method
+
+2. Mathematical Writing
+   - Explain optimization strategies
+   - Describe gradient concepts
+   - Compare solution methods
+   - Analyze real-world applications
+
 ## Unit 3: Multiple Integration (4 weeks)
 
 ### Learning Objectives
@@ -532,6 +628,54 @@ class IntegrationVisualizer:
 2. Multiple coordinate systems
 3. Physical applications
 4. Optimization problems
+
+### Assessments
+
+🔵 **Weekly Problem Sets**
+
+1. Double Integrals
+
+   - Evaluate over rectangular regions
+   - Compute over general regions
+   - Change integration order
+   - Apply polar coordinates
+
+2. Triple Integrals
+
+   - Calculate volume
+   - Find mass and center of mass
+   - Use cylindrical coordinates
+   - Apply spherical coordinates
+
+3. Implementation Tasks
+   - Build multiple integral calculator
+   - Create coordinate transformation tools
+   - Implement visualization systems
+   - Develop physical application simulators
+
+🟡 **Unit Project**
+Physical System Analyzer:
+
+- Mass property calculator
+- Moment of inertia analyzer
+- Center of mass visualizer
+- Coordinate system transformer
+- Interactive 3D region explorer
+
+🟢 **Concept Mastery**
+
+1. Theory Assessment
+
+   - Integration theorems
+   - Coordinate transformations
+   - Jacobian properties
+   - Physical interpretations
+
+2. Problem Solving
+   - Region setup strategies
+   - Coordinate system selection
+   - Integration method choice
+   - Application modeling
 
 ## Unit 4: Vector Calculus (4 weeks)
 
@@ -738,6 +882,54 @@ class VectorFieldVisualizer:
 2. Multiple surface integrals
 3. Physical applications
 4. Theoretical proofs
+
+### Assessments
+
+🔵 **Weekly Problem Sets**
+
+1. Vector Fields
+
+   - Analyze conservative fields
+   - Compute curl and divergence
+   - Find potential functions
+   - Study field properties
+
+2. Line and Surface Integrals
+
+   - Calculate work integrals
+   - Evaluate flux integrals
+   - Apply Green's theorem
+   - Use Stokes' and divergence theorems
+
+3. Implementation Tasks
+   - Create vector field analyzer
+   - Build path integral calculator
+   - Implement surface integral tools
+   - Develop theorem verifiers
+
+🟡 **Unit Project**
+Field Analysis System:
+
+- Conservative field detector
+- Path independence analyzer
+- Surface flux calculator
+- Theorem demonstration tool
+- Physical field visualizer
+
+🟢 **Concept Mastery**
+
+1. Theory Assessment
+
+   - Vector field properties
+   - Integration theorems
+   - Physical applications
+   - Field analysis methods
+
+2. Theoretical Exercises
+   - Prove field properties
+   - Derive relationships
+   - Analyze special cases
+   - Connect concepts
 
 ## Course Integration and Applications (2 weeks)
 
