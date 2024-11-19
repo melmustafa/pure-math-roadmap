@@ -4,16 +4,16 @@ _Foundation Track A - Course 3_
 
 ## Course Overview
 
-**Duration:** 3-4 months  
-**Prerequisites:** Single Variable Calculus, Multivariable Calculus  
-**Programming:** Python with SciPy  
+**Duration:** 3-4 months
+**Prerequisites:** Single Variable Calculus, Multivariable Calculus
+**Programming:** Python with SciPy
 **Time Commitment:** 12-15 hours/week
 
 ## Learning Path Structure
 
-🔵 Core Content (Essential - Master These)  
-🟡 Recommended (Deepen Understanding)  
-🟢 Advanced (Extra Challenge)  
+🔵 Core Content (Essential - Master These)
+🟡 Recommended (Deepen Understanding)
+🟢 Advanced (Extra Challenge)
 ⭐ Applications (Real-world Usage)
 
 ## Unit 1: First-Order Differential Equations (3 weeks)
@@ -794,7 +794,7 @@ class DynamicalSystemSimulator:
 
 2. Online Materials
 
-   - MIT OpenCourseWare: Differential Equations
+   - [MIT OpenCourseWare: Differential Equations](https://ocw.mit.edu/courses/18-03-differential-equations-spring-2010/)
    - [Differential Equations at Khan Academy](https://www.khanacademy.org/math/differential-equations)
    - [Paul's Online Notes - DE Section](https://tutorial.math.lamar.edu/Classes/DE/DE.aspx)
 

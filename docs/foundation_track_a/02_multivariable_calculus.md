@@ -1068,9 +1068,9 @@ class FieldAnalyzer:
    - "Advanced Engineering Mathematics" by Kreyszig
 
 2. Online Resources
-   - MIT OpenCourseWare: Multivariable Calculus
-   - 3Blue1Brown: Essence of Linear Algebra
-   - Khan Academy: Multivariable Calculus
+   - [MIT OpenCourseWare: Multivariable Calculus](https://ocw.mit.edu/courses/18-02sc-multivariable-calculus-fall-2010/)
+   - [3Blue1Brown: Essence of Linear Algebra](https://www.3blue1brown.com/topics/linear-algebra)
+   - [Khan Academy: Multivariable Calculus](https://www.khanacademy.org/math/multivariable-calculus)
 
 🟡 **Additional Materials**
 
